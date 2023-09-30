@@ -1,0 +1,13 @@
+celery
+hdfs
+kombu
+tornado
+werkzeug
+pyspark==3.3.0
+SQLAlchemy
+wtforms
+psycopg2-binary
+requests
+datetime
+apache-airflow-providers-apache-spark
+pyarrow
